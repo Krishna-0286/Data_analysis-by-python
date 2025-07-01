@@ -102,7 +102,7 @@ This project aims to analyze sales trends based on demographic factors such as g
 ---
 
 ## Dashboard review
-[Dashboard]()
+[Dashboard_image](https://github.com/Krishna-0286/Data_analysis-by-python/blob/main/Dipavali_data_analysis.png)
 
 ## 💼 Usage
 
@@ -118,7 +118,7 @@ jupyter notebook
 ## 🏆 Author
 
 **Krishna Kumar**
-Aspiring Data Analyst | Skilled in Python, Pandas, SQL, Power BI
+Aspiring Data Analyst | Skilled in Python, Pandas, SQL, Power BI,
 
 ---
 
