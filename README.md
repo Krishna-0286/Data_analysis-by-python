@@ -101,6 +101,9 @@ This project aims to analyze sales trends based on demographic factors such as g
 
 ---
 
+## Dashboard review
+[Dashboard]()
+
 ## 💼 Usage
 
 Clone the repo and run the notebook using Jupyter or any Python environment:
